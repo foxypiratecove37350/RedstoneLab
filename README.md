@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ![Logo](./brand/logo.png) -->
+![Logo](./brand/icon.svg)
 
 # RedstoneLab
 
