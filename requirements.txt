@@ -1,0 +1,6 @@
+PyOpenGL
+PyOpenGL_accelerate
+PyGLM
+glfw
+PyQt5
+numpy
