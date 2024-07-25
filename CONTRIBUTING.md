@@ -103,7 +103,7 @@ Unsure where to begin contributing? You can start by looking through `help-wante
 
 #### Local development
 
-RedstoneLab can be developed and tested locally. First, clone the repository and run `pip install -r requirements.txt` to install the required modules. Then, to start the program you can run `python main.py`.
+RedstoneLab can be developed and tested locally. First, clone the repository and run `pip install -r requirements.txt` to install the required modules. Then, to start the program you can run `python src/main.py`.
 
 ### Pull Requests
 

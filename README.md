@@ -35,7 +35,7 @@ cd RedstoneLab
 And then, start it using Python:
 
 ```bash
-python main.py
+python src/main.py
 ```
 
 ## Contributing
