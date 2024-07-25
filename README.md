@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](./brand/icon.svg)
+<img alt="Logo" src="./brand/icon.svg" width="128">
 
 # RedstoneLab
 
